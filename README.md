@@ -1,0 +1,2 @@
+# inistallgit
+inistall&amp;deploy
